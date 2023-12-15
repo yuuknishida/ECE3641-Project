@@ -2,12 +2,16 @@
 
 ## Team Members:
 Alex Moncrieff
+
 Fadel Farae
+
 Yuuki Nishida
 
 ## Each Members Role:
 Fadel Farae: 3D printing and building the hardware
+
 Alex Moncrieff: Software development and project schedule management
+
 Yuuki Nishida: Software development and research
 
 ## One Paragraph Summary:
