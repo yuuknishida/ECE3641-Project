@@ -15,7 +15,7 @@ The ECE3641 Final Project encountered challenges that led to the development of 
 
 ## Resource Links:
 Code:
-GitHub Repository Link: [To be determined]
+GitHub Repository Link: https://github.com/yuuknishida/ECE3641-Project/tree/main
 
 Video Link for Presentation:
 YouTube Video Link: [To be determined]
