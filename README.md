@@ -22,4 +22,4 @@ Code:
 https://github.com/yuuknishida/ECE3641-Project/tree/main
 
 Video Link for Presentation:
-YouTube Video Link: [To be determined]
+https://youtu.be/CNgWjWK6Li8)https://youtu.be/CNgWjWK6Li8
